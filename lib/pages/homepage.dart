@@ -15,7 +15,7 @@ class _HomepageState extends State<Homepage> {
       appBar: AppBar(
         title: Text('hi', style: TextStyle(color: Colors.black)),
         backgroundColor: Colors.black38,
-        actions: [Icon(Icons.local_activity_rounded)],
+        actions: [Icon(Icons.location_city_rounded)],
       ),
       body: SafeArea(
         child: Container(
